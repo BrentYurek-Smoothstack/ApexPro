@@ -1,0 +1,1 @@
+Things are more like they are now than they have ever been before.
