@@ -1,0 +1,7 @@
+<template>
+    <lightning-card title="Names of Us">
+        <template iterator:it={names}>
+            <p key={it.value}>{it.value}</p>
+        </template>
+    </lightning-card>
+</template>
